@@ -1,0 +1,23 @@
+{
+  "name": "seminar-kata",
+  "version": "1.0.0",
+  "description": "",
+  "main": "kata.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnhutcheon/seminar-kata.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johnhutcheon/seminar-kata/issues"
+  },
+  "homepage": "https://github.com/johnhutcheon/seminar-kata#readme",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
